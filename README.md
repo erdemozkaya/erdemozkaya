@@ -1,7 +1,7 @@
 Hello 👋, this is **Hüseyin Erdem ÖZKAYA**
 
-I'm a **Frontend Developer** living in **Duzce, Turkey** working for [Bilsoft](https://bilsoft.com)
-I love **JavaScript** and **open source development**.
+I'm a **Frontend Developer** living in **Duzce, Turkey** working for [Bilsoft](https://bilsoft.com)<br />
+I love **JavaScript** and **open source development**.<br />
 
 - 📫 How to reach me **herdemozkaya@gmail.com**
 
