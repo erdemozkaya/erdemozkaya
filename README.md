@@ -1,4 +1,9 @@
-### Hi there 👋
+Hello 👋, this is **Hüseyin Erdem ÖZKAYA**
+
+I'm a **Frontend Developer** living in **Duzce, Turkey** working for [Bilsoft](https://bilsoft.com)
+I love **JavaScript** and **open source development**.
+
+- 📫 How to reach me **herdemozkaya@gmail.com**
 
 <!--
 **erdemozkaya/erdemozkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
