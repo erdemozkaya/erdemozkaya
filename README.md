@@ -1,6 +1,6 @@
 Hello 👋, this is **Hüseyin Erdem ÖZKAYA**
 
-I'm a **Frontend Developer** living in **Duzce, Turkey** working for [Caretta](https://www.caretta.net)<br />
+I'm a **Frontend Developer** living in **Duzce, Turkey** working for [Amaris](https://www.amaris.com/)<br />
 I love **JavaScript** and **open source development**.<br />
 
 - 📫 How to reach me **herdemozkaya@gmail.com**
